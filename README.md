@@ -10,7 +10,7 @@ For dynamic analysis one of the best emulators to use is [pcsx-redux](https://gi
 ## Additional tools
 - For testing out parts of the functionality of your binaries it is useful to setup a psyq SDK. [NDR008](https://github.com/NDR008/VSCodePSX) has a very good tutorial for setting up an development environment for modern systems.
 
-## New! directly debug your software in Ghidra
+## New! directly debug your PSX executable in Ghidra
 See [tutorial](https://pcsx-redux.consoledev.net/Debugging/ghidra/) for additional information
 
 ## If you have additional ideas feel free to create a pull request!
